@@ -1,0 +1,25 @@
+Confusion Matrix:
+          Reference
+Prediction  0  1
+         0 91  1
+         1  2  6
+
+Metrics:
+True Positives (TP): 6 
+True Negatives (TN): 91 
+False Positives (FP): 2 
+False Negatives (FN): 1 
+Accuracy: 0.97 
+Precision: 0.9891304 
+Recall: 0.9784946 
+F1 Score: 0.9837838 
+
+
+
+The false positives were because:
+- USA22410: Harvard Palestine Solidarity Committee is mentioned, but the demostration is not related to Israel.
+- USA50439: National Council of Jewish Women involved in demostration that is not specific about Jews or Israel.
+
+
+The false negative USA71054 was because I did not consider the nazi salute "Siege Heil".
+
