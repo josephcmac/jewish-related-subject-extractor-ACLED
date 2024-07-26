@@ -1,0 +1,18 @@
+Confusion Matrix:
+          Reference
+Prediction  0  1
+         0 90  3
+         1  0  7
+
+Metrics:
+True Positives (TP): 7 
+True Negatives (TN): 90 
+False Positives (FP): 0 
+False Negatives (FN): 3 
+Accuracy: 0.97 
+Precision: 0.9677419 
+Recall: 1 
+F1 Score: 0.9836066
+
+The algorithm failed because of the following keywords were missing: NAZI Flag; Qanon; Aryan Brotherhood; neo-Nazi
+
