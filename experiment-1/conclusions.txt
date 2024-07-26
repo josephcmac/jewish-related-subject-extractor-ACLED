@@ -10,7 +10,7 @@ True Negatives (TN): 90
 False Positives (FP): 0 
 False Negatives (FN): 3 
 Accuracy: 0.97 
-Precision: 0.9677419t 
+Precision: 0.9677419 
 Recall: 1 
 F1 Score: 0.9836066
 
