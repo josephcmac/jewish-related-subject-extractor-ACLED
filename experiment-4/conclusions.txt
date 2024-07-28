@@ -1,0 +1,23 @@
+Confusion Matrix:
+          Reference
+Prediction  0  1
+         0 90  1
+         1  1  8
+
+Metrics:
+True Positives (TP): 8 
+True Negatives (TN): 90 
+False Positives (FP): 1 
+False Negatives (FN): 1 
+Accuracy: 0.98 
+Precision: 0.989011 
+Recall: 0.989011 
+F1 Score: 0.989011 
+
+
+False positive: Brooklyn Defender Services (BDS) was confused with Boycott, Divestment and Sanctions (BDS).
+
+False negative: Israel is not explicitly mentioned, but "US imperialism in the Middle East" is equivalent to Israel.
+
+
+

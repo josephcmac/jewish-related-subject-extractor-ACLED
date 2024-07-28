@@ -1,0 +1,19 @@
+Confusion Matrix:
+          Reference
+Prediction  0  1
+         0 95  1
+         1  0  4
+
+Metrics:
+True Positives (TP): 4 
+True Negatives (TN): 95 
+False Positives (FP): 0 
+False Negatives (FN): 1 
+Accuracy: 0.99 
+Precision: 0.9895833 
+Recall: 1 
+F1 Score: 0.9947644 
+
+
+The false negative was because "pro-Palestinian was not included".
+
