@@ -68,19 +68,6 @@ The experiment aims to evaluate an algorithm designed to classify rows of the AC
 - Metrics and analysis highlighting the algorithm's performance.
 - Insights into areas where the algorithm can be improved.
 
-## How to Use
-
-1. **Installation**:
-    - Clone the repository: `git clone https://github.com/yourusername/Jewish-Related-Subject-Extractor.git`
-    - Navigate to the directory: `cd Jewish-Related-Subject-Extractor`
-    - Install required dependencies: `pip install -r requirements.txt`
-
-2. **Running the Tool**:
-    - Ensure the ACLED dataset is in the appropriate directory.
-    - Run the script: `python extract_jewish_related_events.py`
-
-3. **Viewing Results**:
-    - Results will be saved in the `results` directory as CSV files and performance metrics as a report.
 
 ## Getting the ACLED Dataset
 
